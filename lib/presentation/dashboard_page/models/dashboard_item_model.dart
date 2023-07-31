@@ -1,0 +1,3 @@
+class DashboardItemModel {
+  String? id = "";
+}

@@ -1,0 +1,3 @@
+class CartItemModel {
+  String? id = "";
+}

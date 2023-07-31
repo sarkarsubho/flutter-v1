@@ -1,0 +1,3 @@
+class GridnikeairmaxreactItemModel {
+  String? id = "";
+}

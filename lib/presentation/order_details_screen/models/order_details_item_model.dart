@@ -1,0 +1,3 @@
+class OrderDetailsItemModel {
+  String? id = "";
+}

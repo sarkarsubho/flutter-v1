@@ -1,0 +1,3 @@
+class SliderofferbannertitlItemModel {
+  String? id = "";
+}

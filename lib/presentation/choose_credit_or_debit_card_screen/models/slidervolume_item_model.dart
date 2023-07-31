@@ -1,0 +1,3 @@
+class SlidervolumeItemModel {
+  String? id = "";
+}

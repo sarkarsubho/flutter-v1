@@ -1,0 +1,3 @@
+class FlashsaleItemModel {
+  String? id = "";
+}

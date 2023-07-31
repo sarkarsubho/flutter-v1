@@ -1,0 +1,3 @@
+class RecomendedItemModel {
+  String? id = "";
+}

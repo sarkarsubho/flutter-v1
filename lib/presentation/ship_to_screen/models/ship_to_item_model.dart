@@ -1,0 +1,3 @@
+class ShipToItemModel {
+  String? id = "";
+}
